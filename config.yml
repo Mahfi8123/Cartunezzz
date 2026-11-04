@@ -81,12 +81,12 @@ google_analytics_id:
 # -----------------------------------------------------------------------------
 # Profile header
 # -----------------------------------------------------------------------------
-title: "ZhgChgLi's Links"
+title: "My Links"
 avatar: "./images/profile.jpeg"
-name: "@zhgchgli"
+name: "@YOUR_USERNAME"
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
-    Followed by {{ vars.GithubProfilePlugin['ZhgChgLi'].followers }} on GitHub across {{ vars.GithubProfilePlugin['ZhgChgLi'].repos }} public repos.
+    Welcome to my profile.
+    Find me on social media below.
 
 # -----------------------------------------------------------------------------
 # Links
